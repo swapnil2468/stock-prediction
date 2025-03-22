@@ -47,21 +47,3 @@ The following key analyses were conducted:
 
 ## 🚀 Conclusion
 This analysis provides a comprehensive overview of Apple's stock behavior. The insights gained can aid in making informed investment decisions. Future enhancements could include predictive modeling using machine learning techniques.
-
-## 📜 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/apple-stock-analysis.git
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd apple-stock-analysis
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open the Jupyter Notebook and run the analysis:
-   ```bash
-   jupyter notebook Apple_stock.ipynb
-   ```
